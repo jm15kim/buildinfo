@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jm15kim/buildinfo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jm15kim/buildinfo/static/js/main.91930abe.chunk.js",
+    "main.js.map": "/jm15kim/buildinfo/static/js/main.91930abe.chunk.js.map",
+    "runtime-main.js": "/jm15kim/buildinfo/static/js/runtime-main.43d0665e.js",
+    "runtime-main.js.map": "/jm15kim/buildinfo/static/js/runtime-main.43d0665e.js.map",
+    "static/js/2.c71f1797.chunk.js": "/jm15kim/buildinfo/static/js/2.c71f1797.chunk.js",
+    "static/js/2.c71f1797.chunk.js.map": "/jm15kim/buildinfo/static/js/2.c71f1797.chunk.js.map",
+    "index.html": "/jm15kim/buildinfo/index.html",
+    "precache-manifest.3ddda31f09be983457ec65cd7bcc1106.js": "/jm15kim/buildinfo/precache-manifest.3ddda31f09be983457ec65cd7bcc1106.js",
+    "service-worker.js": "/jm15kim/buildinfo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jm15kim/buildinfo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c71f1797.chunk.js.LICENSE.txt": "/jm15kim/buildinfo/static/js/2.c71f1797.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jm15kim/buildinfo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d0665e.js",
+    "static/js/2.c71f1797.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.91930abe.chunk.js"
+  ]
+}
